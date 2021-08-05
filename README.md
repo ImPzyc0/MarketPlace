@@ -5,8 +5,6 @@ MarketPlaces Plugin for Vanilla near 1.16/17 SMP's
 
 Better you SMP experience with this Plugin. It is designed to remove scamming/stealing problems and help Players trade more easily. Make MarketPlaces and MarketStands to trade with your friends!
 
-Screenshot (22).jpg Screenshot (26).jpg Screenshot (27).png
-
 
 Features:
 -Stores all data locally, no need to worry about losing data
