@@ -1,0 +1,9 @@
+name: MarketPlaces
+version: ${project.version}
+main: com.plugin.Main
+api-version: 1.16
+commands:
+  market:
+    create: creates a new market place
+    stand: creates a new market stand
+    manager: players/market
