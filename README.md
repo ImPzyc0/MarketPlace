@@ -1,5 +1,6 @@
 # MarketPlace
 <h3>Minecraft Spigot plugin, smp oriented</h3>
+Spigot download link: <href = https://www.spigotmc.org/resources/marketplaces.94985/> here </href>
 MarketPlaces Plugin for Vanilla near 1.16/17 SMP's
 
 Better you SMP experience with this Plugin. It is designed to remove scamming/stealing problems and help Players trade more easily. Make MarketPlaces and MarketStands to trade with your friends!
